@@ -1,0 +1,1 @@
+web: gunicorn freesky.wsgi
